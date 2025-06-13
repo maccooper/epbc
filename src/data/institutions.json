@@ -1,0 +1,189 @@
+[
+  {
+    "name": "British Columbia Institute of Technology",
+    "type": "public",
+    "lat": 49.2500,
+    "lng": -123.0010
+  },
+  {
+    "name": "Camosun College",
+    "type": "public",
+    "lat": 48.4636,
+    "lng": -123.3102
+  },
+  {
+    "name": "Capilano University",
+    "type": "public",
+    "lat": 49.3577,
+    "lng": -123.1404
+  },
+  {
+    "name": "Coast Mountain College",
+    "type": "public",
+    "lat": 53.2530,
+    "lng": -131.8061
+  },
+  {
+    "name": "College of New Caledonia",
+    "type": "public",
+    "lat": 54.3132,
+    "lng": -124.8480
+  },
+  {
+    "name": "College of the Rockies",
+    "type": "public",
+    "lat": 50.0716,
+    "lng": -115.2947
+  },
+  {
+    "name": "Douglas College",
+    "type": "public",
+    "lat": 49.2202,
+    "lng": -122.8527
+  },
+  {
+    "name": "Emily Carr University of Art and Design",
+    "type": "public",
+    "lat": 49.2665,
+    "lng": -123.1347
+  },
+  {
+    "name": "Justice Institute of British Columbia",
+    "type": "public",
+    "lat": 49.2158,
+    "lng": -122.8787
+  },
+  {
+    "name": "Kwantlen Polytechnic University",
+    "type": "public",
+    "lat": 49.1879,
+    "lng": -122.8490
+  },
+  {
+    "name": "Langara College",
+    "type": "public",
+    "lat": 49.2320,
+    "lng": -123.1130
+  },
+  {
+    "name": "Nicola Valley Institute of Technology",
+    "type": "public",
+    "lat": 50.3538,
+    "lng": -120.5668
+  },
+  {
+    "name": "North Island College",
+    "type": "public",
+    "lat": 50.5621,
+    "lng": -126.9846
+  },
+  {
+    "name": "Northern Lights College",
+    "type": "public",
+    "lat": 56.2505,
+    "lng": -120.8469
+  },
+  {
+    "name": "Okanagan College",
+    "type": "public",
+    "lat": 49.8880,
+    "lng": -119.4851
+  },
+  {
+    "name": "Selkirk College",
+    "type": "public",
+    "lat": 49.2968,
+    "lng": -117.6329
+  },
+  {
+    "name": "Simon Fraser University",
+    "type": "public",
+    "lat": 49.2776,
+    "lng": -122.9143
+  },
+  {
+    "name": "Thompson Rivers University",
+    "type": "public",
+    "lat": 50.6597,
+    "lng": -120.3693
+  },
+  {
+    "name": "University of British Columbia",
+    "type": "public",
+    "lat": 49.2606,
+    "lng": -123.2460
+  },
+  {
+    "name": "University of Northern British Columbia",
+    "type": "public",
+    "lat": 53.9171,
+    "lng": -122.7497
+  },
+  {
+    "name": "University of the Fraser Valley",
+    "type": "public",
+    "lat": 49.1044,
+    "lng": -122.2523
+  },
+  {
+    "name": "University of Victoria",
+    "type": "public",
+    "lat": 48.4635,
+    "lng": -123.3124
+  },
+  {
+    "name": "Vancouver Community College",
+    "type": "public",
+    "lat": 49.2738,
+    "lng": -123.1150
+  },
+  {
+    "name": "Vancouver Island University",
+    "type": "public",
+    "lat": 49.1972,
+    "lng": -124.9057
+  },
+  {
+    "name": "Royal Roads University",
+    "type": "external",
+    "lat": 48.4412,
+    "lng": -123.4010
+  },
+  {
+    "name": "Alexander College",
+    "type": "private",
+    "lat": 49.2709,
+    "lng": -123.1125
+  },
+  {
+    "name": "Coquitlam College",
+    "type": "private",
+    "lat": 49.2751,
+    "lng": -122.8170
+  },
+  {
+    "name": "Fraser International College",
+    "type": "private",
+    "lat": 49.2796,
+    "lng": -123.1157
+  },
+  {
+    "name": "LaSalle College Vancouver",
+    "type": "private",
+    "lat": 49.2806,
+    "lng": -123.1138
+  },
+  {
+    "name": "Trinity Western University",
+    "type": "private",
+    "lat": 49.2265,
+    "lng": -122.8939
+  },
+  {
+    "name": "University Canada West",
+    "type": "private",
+    "lat": 49.2827,
+    "lng": -123.1079
+  }
+]
+

@@ -1,0 +1,53 @@
+/* src/app/Banner.module.css */
+
+.banner {
+  width: 320px;
+  height: 100%;
+  overflow-y: auto;
+  background-color: #1b1a29;
+  padding: 1rem;
+  border-right: 2px solid #333;
+}
+
+.banner h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.section {
+  margin-bottom: 1.5rem;
+}
+
+.section h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  color: #ccc;
+}
+
+.section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.section li {
+  margin-bottom: 0.4rem;
+}
+
+.section button {
+  width: 100%;
+  text-align: left;
+  background: #29283d;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.2s ease;
+}
+
+.section button:hover {
+  background: #3b3a4f;
+}
+
